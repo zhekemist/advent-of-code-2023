@@ -1,0 +1,8 @@
+{
+  "START_HOUR": 6,
+  "SOLUTION_FOLDER": "solutions/{DAY_STR}",
+  "SOLUTION_DEFAULT_FILE": "puzzle_solution.py",
+  "SOLUTION_TEMPLATE": "import adventofcode as aoc\n\n\n@aoc.solution(aoc.Part.ONE)\ndef solve_part_one(puzzle_input: aoc.PuzzleInput):\n    pass\n\n\n@aoc.solution(aoc.Part.TWO)\ndef solve_part_two(puzzle_input: aoc.PuzzleInput):\n    pass\n",
+  "INPUT_PATH": "input/day_{DAY_STR}.txt",
+  "EXAMPLE_INPUT_PATH": "input/day_{DAY_STR}_example.txt"
+}
