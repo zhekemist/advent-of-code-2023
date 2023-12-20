@@ -1,0 +1,9 @@
+/input
+/tools
+keys.json
+todo.md
+
+.idea/
+
+__pycache__/
+venv/
