@@ -1,6 +1,6 @@
 # Advent of Code 2023
 
-<img src="https://img.shields.io/badge/2023-40%20⭐-990000?style=flat-square"></img>
+<img src="https://img.shields.io/badge/2023-50%20⭐-990000?style=flat-square"></img>
 
 This repository contains my solution approaches for the [Advent of Code 2023](https://adventofcode.com/2023),
 implemented in Python. It is structured as follows:
